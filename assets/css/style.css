@@ -353,7 +353,7 @@ header.header .comp p {
   z-index: 3;
 }
 .header .top-left-bar  a{
-  color: #378dc0;
+  color: #002e8d;
   padding-left: 10px;
 }
 .header .top-right-bar p{
@@ -363,7 +363,7 @@ header.header .comp p {
 .header .logo-bar{
   padding: 10px 0px;
   background:#fff;
-  color:#378dc0;
+  color:#002e8d;
 }
 .header .infor{
     margin-top:5px;
@@ -380,7 +380,7 @@ header.header .comp p {
   flex: 1;
 }
 .header .logo-bar .address .text a, .logo-bar .phone .text a{
-    color:#378dc0;
+    color:#000;
 }
 .header .logo-bar .address address{
   margin-bottom: 0;
@@ -452,7 +452,7 @@ header.header .comp p {
 
 .header-text{
   padding: 20px;
-  background-color: #378dc0;
+  background-color: #002e8d;
   color: #fff;
 }
 .header-text .sec-btn{
@@ -519,6 +519,7 @@ header.header .comp p {
   box-shadow: 0px 10px 20px 0px #00ce0027;
   border-radius: 30px 0px 0px 30px;
   font-size: 0px;
+      z-index: 1;
 }
 
 .hero-slider .slick-prev {
