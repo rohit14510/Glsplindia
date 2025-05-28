@@ -28,8 +28,8 @@ $mail->Password = 'Standup@123';
 $mail->SMTPSecure = 'tls';
 $mail->Port     = 587;
 // Sender info 
-$mail->setFrom('info@glsplindia.com', 'Ritco Express'); 
-$mail->addReplyTo('info@glsplindia.com', 'Test Email'); 
+$mail->setFrom('info@glsplindia.in', 'Ritco Express'); 
+$mail->addReplyTo('info@glsplindia.in', 'Test Email'); 
  
 // Add a recipient 
 $mail->addAddress('gouravlogisticsolution@gmail.com'); 
