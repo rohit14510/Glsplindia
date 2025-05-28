@@ -27,11 +27,11 @@ $mail->Password = 'Standup@123';
 $mail->SMTPSecure = 'tls';
 $mail->Port     = 587;
 // Sender info 
-$mail->setFrom('info@ritcoexpress.com', 'Ritco Express'); 
-$mail->addReplyTo('info@ritcoexpress.com', 'Test Email'); 
+$mail->setFrom('info@glsplindia.com', 'Ritco Express'); 
+$mail->addReplyTo('info@glsplindia.com', 'Test Email'); 
  
 // Add a recipient 
-$mail->addAddress('orderritco@gmail.com'); 
+$mail->addAddress('gouravlogisticsolution@gmail.com'); 
  
 // Add cc or bcc  
 // $mail->addCC('cc@example.com'); 
